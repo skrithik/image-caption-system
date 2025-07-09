@@ -15,7 +15,6 @@ This project generates image captions using deep learning (CNN + LSTM) with both
 │   ├── caption_model.h5   # Trained caption model weights
 │   └── tokenizer.pkl      # Tokenizer object used during training
 ├── backend.ipynb          # Full training process to generate weights (optional)
-├── style.css              # Custom CSS styling for the UI
 ├── requirements.txt       # All dependencies
 └── README.md              # You are here!
 ```
