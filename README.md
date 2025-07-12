@@ -1,4 +1,4 @@
-# image-caption-system
+# VISION2TEXT
 # 🖼️ AI Image Caption Generator
 
 This project generates image captions using deep learning (CNN + LSTM) with both **Greedy Search** and **Beam Search** decoding strategies. Built with **TensorFlow/Keras** and a stylish **Streamlit UI** for a smooth user experience.
